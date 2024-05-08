@@ -1,0 +1,32 @@
+{
+  "complaints": [
+    {
+      "id": 1,
+      "description": "Jó termék",
+      "complaint": "Csár István",
+      "product": "Asztali számítógép",
+      "type": "Megjavított"
+    },
+    {
+      "id": 2,
+      "description": "Rossz termék",
+      "complaint": "Pál Péter",
+      "product": "Mobiltelefon",
+      "type": "Szerelés alatt"
+    },
+    {
+      "id": 3,
+      "description": "Jó termék",
+      "complaint": "Nagy Kata",
+      "product": "Laptop",
+      "type": "Szerelés alatt"
+    },
+    {
+      "id": 4,
+      "description": "Jó termék",
+      "complaint": "Sillo Steve",
+      "product": "Televízió",
+      "type": "Megjavított"
+    }
+  ]
+}
